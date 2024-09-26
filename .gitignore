@@ -23,6 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 .venv/
-.config.py
-_pycache_/
+flask-server/config.py
+__pycache__/git rm --cached flask-server/config.py
+*.pyc
 uploads/
